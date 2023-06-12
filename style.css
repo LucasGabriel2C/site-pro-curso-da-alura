@@ -48,4 +48,18 @@ body{
     padding: 24px 0;
 }
 
+.estudante-imagem{
+    width: 120px;
+
+}
+
+.estudante-icone{
+    width: 24px;
+}
+
+.estudante-div{
+    text-align: center;
+
+}
+
 //href="https://storyset.com/education">Education illustrations by Storyset//
